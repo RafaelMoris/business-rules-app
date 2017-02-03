@@ -34,6 +34,9 @@ module.exports.routes = {
 
   '/': {
     view: 'homepage'
+  },
+  '/question_manager': {
+    view: 'question_manager'
   }
 
   /***************************************************************************
